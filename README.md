@@ -4,7 +4,7 @@ This project focuses on writing your own version of the C function printf:<br>
 int ft_printf(char const *, ...);
 <br>
 <br>
-With this project I got to discover variadic functions in C. My printf manages the following formatting rules:<br>
+My printf manages the following formatting rules:<br>
 <br>
 %c (char)<br>
 %s (string)<br>
@@ -16,4 +16,4 @@ With this project I got to discover variadic functions in C. My printf manages t
 %X (hexadecimal number in uppercase)<br>
 %% (percentage sign)<br>
 <br>
-
+With this project I got to discover variadic functions in C.
